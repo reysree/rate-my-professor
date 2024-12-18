@@ -19,6 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 To run this project in local :
 
 - Install node modules npm install
+- to install the python dependencies run : pip install -r requirements.txt
 - create a .env.local file in the project folder and should contain the below keys :
   - OPENAI_API_KEY
   - PINECONE_API_KEY
