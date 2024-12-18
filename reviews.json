@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Introduction to Computer Science",
+        "stars": 4,
+        "review": "Dr. Smith explains concepts clearly but can be a bit fast-paced."
+      },
+      {
+        "professor": "Dr. Jane Doe",
+        "subject": "Calculus I",
+        "stars": 5,
+        "review": "Excellent professor! She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Emily Brown",
+        "subject": "Physics II",
+        "stars": 3,
+        "review": "Content is tough, and lectures are a bit dry, but she’s knowledgeable."
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "World History",
+        "stars": 2,
+        "review": "Lectures are disorganized and hard to follow."
+      },
+      {
+        "professor": "Dr. Alice White",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "Very thorough and engaging. Her exams are challenging but fair."
+      },
+      {
+        "professor": "Dr. Robert Green",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Great lecturer, but office hours are often crowded."
+      },
+      {
+        "professor": "Dr. Susan Lee",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Dr. Lee is passionate about the subject and very approachable."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Linear Algebra",
+        "stars": 3,
+        "review": "The material is presented well, but grading is very strict."
+      },
+      {
+        "professor": "Dr. Linda Taylor",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Her classes are interesting, but she assigns a lot of reading."
+      },
+      {
+        "professor": "Dr. Kevin Brown",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Innovative and up-to-date content. Loved the projects!"
+      },
+      {
+        "professor": "Dr. Sarah Miller",
+        "subject": "Biochemistry",
+        "stars": 4,
+        "review": "Challenging course, but she’s very helpful during office hours."
+      },
+      {
+        "professor": "Dr. Andrew Davis",
+        "subject": "Macroeconomics",
+        "stars": 3,
+        "review": "Lectures can be monotonous, but the content is solid."
+      },
+      {
+        "professor": "Dr. Jessica Adams",
+        "subject": "Sociology 101",
+        "stars": 5,
+        "review": "She’s engaging and cares about her students' understanding."
+      },
+      {
+        "professor": "Dr. Thomas King",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "The course is difficult, and he doesn’t explain the material well."
+      },
+      {
+        "professor": "Dr. Patricia Anderson",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Informative lectures with real-world applications."
+      },
+      {
+        "professor": "Dr. Matthew Garcia",
+        "subject": "Introduction to Philosophy",
+        "stars": 3,
+        "review": "Philosophy is tough, and his teaching style can be confusing."
+      },
+      {
+        "professor": "Dr. Elizabeth Rodriguez",
+        "subject": "Spanish Language and Culture",
+        "stars": 5,
+        "review": "She’s energetic and makes learning Spanish fun."
+      },
+      {
+        "professor": "Dr. Anthony Martinez",
+        "subject": "Astronomy",
+        "stars": 4,
+        "review": "Fascinating course, but his exams are difficult."
+      },
+      {
+        "professor": "Dr. Barbara Clark",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "She’s knowledgeable and encourages critical thinking."
+      },
+      {
+        "professor": "Dr. William Hernandez",
+        "subject": "Ethics",
+        "stars": 5,
+        "review": "Amazing professor! He’s thought-provoking and inspiring."
+      }
+    ]
+  }
+  
